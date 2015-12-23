@@ -60,12 +60,12 @@ Changelog: \
 <br> \
 \
 Links: \
-<a href="https://twitter.com/hamzasood" class="box"> \
+<a href="https://twitter.com/hamzasood" target="_blank" class="box"> \
     <img class="icon" src="../../depiction_template/twitter.png" srcset="../../depiction_template/twitter.png 1x, ../../depiction_template/twitter@2x.png 2x"> \
     <span style="vertical-align: middle;">My Twitter Page</span> \
     <img class="arrow" src="../../depiction_template/arrow.png" srcset="../../depiction_template/arrow.png 1x, ../../depiction_template/arrow@2x.png 2x"> \
 </a> \
-<a href="https://github.com/hamzasood" class="box"> \
+<a href="https://github.com/hamzasood" target="_blank" class="box"> \
     <img class="icon" src="../../depiction_template/github.png" srcset="../../depiction_template/github.png 1x, ../../depiction_template/github@2x.png 2x"> \
     <span style="vertical-align: middle;">My Github Page</span> \
     <img class="arrow" src="../../depiction_template/arrow.png" srcset="../../depiction_template/arrow.png 1x, ../../depiction_template/arrow@2x.png 2x"> \
